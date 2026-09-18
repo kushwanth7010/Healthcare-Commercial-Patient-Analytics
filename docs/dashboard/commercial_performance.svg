@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="1400" height="900" fill="#ffffff"/><rect width="1400" height="64" fill="#0f172a"/>
+<text x="36" y="41" font-size="26" font-weight="700" fill="#ffffff">Healthcare Commercial &amp; Patient Reach Analytics</text>
+<text x="36" y="86" font-size="16" fill="#64748b">Commercial Performance &amp; Sales Force Effectiveness</text>
+<text x="50" y="148" font-size="18" font-weight="700">Revenue per Sales Call</text><text x="50" y="199.168" font-size="13">South</text><rect x="145" y="160" width="445" height="54.4" rx="5" fill="#3b82f6"/><text x="595" y="199.168" font-size="12">9199</text><text x="50" y="265.568" font-size="13">West</text><rect x="145" y="226.4" width="429.09174910316335" height="54.4" rx="5" fill="#3b82f6"/><text x="579.0917491031634" y="265.568" font-size="12">8928</text><text x="50" y="331.968" font-size="13">North</text><rect x="145" y="292.8" width="405.25872377432324" height="54.4" rx="5" fill="#3b82f6"/><text x="555.2587237743232" y="331.968" font-size="12">8522</text><text x="50" y="398.36800000000005" font-size="13">East</text><rect x="145" y="359.20000000000005" width="396.57082291553434" height="54.4" rx="5" fill="#3b82f6"/><text x="546.5708229155343" y="398.36800000000005" font-size="12">8374</text><text x="50" y="464.76800000000003" font-size="13">Central</text><rect x="145" y="425.6" width="395.6902924230895" height="54.4" rx="5" fill="#3b82f6"/><text x="545.6902924230894" y="464.76800000000003" font-size="12">8359</text>
+<text x="760" y="148" font-size="18" font-weight="700">Regional Revenue ($M)</text><text x="760" y="199.168" font-size="13">South</text><rect x="855" y="160" width="445" height="54.4" rx="5" fill="#3b82f6"/><text x="1305" y="199.168" font-size="12">95M</text><text x="760" y="265.568" font-size="13">West</text><rect x="855" y="226.4" width="391.56842105263155" height="54.4" rx="5" fill="#3b82f6"/><text x="1251.5684210526315" y="265.568" font-size="12">85.6M</text><text x="760" y="331.968" font-size="13">East</text><rect x="855" y="292.8" width="374.5157894736842" height="54.4" rx="5" fill="#3b82f6"/><text x="1234.5157894736842" y="331.968" font-size="12">82.6M</text><text x="760" y="398.36800000000005" font-size="13">North</text><rect x="855" y="359.20000000000005" width="368.2631578947368" height="54.4" rx="5" fill="#3b82f6"/><text x="1228.2631578947369" y="398.36800000000005" font-size="12">81.5M</text><text x="760" y="464.76800000000003" font-size="13">Central</text><rect x="855" y="425.6" width="277.88421052631577" height="54.4" rx="5" fill="#3b82f6"/><text x="1137.8842105263157" y="464.76800000000003" font-size="12">65.6M</text>
+<rect x="50" y="565" width="600" height="220" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="75" y="605" font-size="19" font-weight="700">Commercial Opportunity Logic</text>
+<text x="75" y="642" font-size="15">1. Identify high-potential physicians.</text>
+<text x="75" y="674" font-size="15">2. Compare sales-call frequency with prescriptions and revenue.</text>
+<text x="75" y="706" font-size="15">3. Flag high-potential / low-engagement accounts.</text>
+<text x="75" y="738" font-size="15">4. Prioritize follow-up based on expected commercial value.</text>
+<rect x="730" y="565" width="570" height="220" rx="14" fill="#eff6ff" stroke="#bfdbfe"/>
+<text x="755" y="605" font-size="19" font-weight="700">Business Interpretation</text>
+<text x="755" y="642" font-size="15">South produces the highest revenue per call in this synthetic case.</text>
+<text x="755" y="674" font-size="15">A stronger territory is not automatically the one with the most activity.</text>
+<text x="755" y="706" font-size="15">Efficiency metrics help distinguish productive engagement from volume alone.</text>
+<text x="36" y="870" font-size="12" fill="#94a3b8">Portfolio dashboard preview • Designed for Business Analyst case discussion.</text>
+</svg>
