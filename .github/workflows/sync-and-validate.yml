@@ -1,0 +1,90 @@
+name: Sync and Validate Project
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Regenerate synthetic datasets
+        run: python python/generate_synthetic_data.py
+
+      - name: Validate data relationships and row counts
+        run: |
+          python - <<'PY'
+          import pandas as pd
+          from pathlib import Path
+
+          root = Path("data/raw")
+          products = pd.read_csv(root / "products.csv")
+          doctors = pd.read_csv(root / "doctors.csv")
+          reps = pd.read_csv(root / "sales_reps.csv")
+          sales = pd.read_csv(root / "commercial_sales.csv")
+          patients = pd.read_csv(root / "patient_reach.csv")
+
+          assert len(products) == 5, f"Expected 5 products, got {len(products)}"
+          assert len(doctors) == 350, f"Expected 350 doctors, got {len(doctors)}"
+          assert len(reps) == 25, f"Expected 25 sales reps, got {len(reps)}"
+          assert len(patients) == 18000, f"Expected 18,000 patients, got {len(patients)}"
+          assert len(sales) > 9000, f"Expected >9,000 commercial rows, got {len(sales)}"
+
+          assert sales["doctor_id"].isin(doctors["doctor_id"]).all(), "Unknown doctor_id in commercial_sales"
+          assert sales["rep_id"].isin(reps["rep_id"]).all(), "Unknown rep_id in commercial_sales"
+          assert sales["product_id"].isin(products["product_id"]).all(), "Unknown product_id in commercial_sales"
+          assert patients["doctor_id"].isin(doctors["doctor_id"]).all(), "Unknown doctor_id in patient_reach"
+
+          required_sales = [
+              "month","doctor_id","rep_id","product_id","product_name","region","state",
+              "specialty","potential_segment","sales_calls","prescriptions","units_sold",
+              "discount_pct","revenue","cost","new_patients","repeat_patients",
+              "gross_profit","gross_margin_pct"
+          ]
+          assert all(c in sales.columns for c in required_sales), "Missing commercial_sales columns"
+          assert sales[required_sales].isna().sum().sum() == 0, "Missing values in required commercial fields"
+
+          print(f"Products: {len(products):,}")
+          print(f"Doctors: {len(doctors):,}")
+          print(f"Sales reps: {len(reps):,}")
+          print(f"Commercial rows: {len(sales):,}")
+          print(f"Patient rows: {len(patients):,}")
+          print("Foreign-key and schema checks passed.")
+          PY
+
+      - name: Run exploratory analysis
+        run: python python/healthcare_eda.py
+
+      - name: Verify analysis outputs
+        run: |
+          test -f data/processed/high_potential_doctor_opportunities.csv
+          test -f data/processed/monthly_revenue.png
+          test -f data/processed/revenue_by_region.png
+
+      - name: Commit synchronized datasets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/raw data/processed
+          if git diff --cached --quiet; then
+            echo "Datasets already synchronized."
+          else
+            git commit -m "Sync generated datasets and analysis outputs [skip ci]"
+            git push
+          fi
