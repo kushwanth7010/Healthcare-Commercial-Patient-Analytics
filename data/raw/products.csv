@@ -1,0 +1,6 @@
+product_name,therapy_area,unit_price,gross_margin_pct,product_id
+CardioPlus,Cardiology,1250,0.36,P001
+GlucoCare,Diabetology,980,0.32,P002
+RespiraX,Pulmonology,1420,0.4,P003
+NeuroZen,Neurology,1650,0.42,P004
+MediCore,General Medicine,720,0.28,P005
