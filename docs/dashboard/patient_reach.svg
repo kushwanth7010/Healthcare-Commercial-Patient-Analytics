@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="1400" height="900" fill="#ffffff"/><rect width="1400" height="64" fill="#0f172a"/>
+<text x="36" y="41" font-size="26" font-weight="700" fill="#ffffff">Healthcare Commercial &amp; Patient Reach Analytics</text>
+<text x="36" y="86" font-size="16" fill="#64748b">Patient Reach, Adherence &amp; Therapy Continuation</text>
+<rect x="36" y="92" width="235" height="100" rx="14" fill="#f8fafc" stroke="#dbeafe"/>
+  <text x="54" y="125" font-size="14" fill="#475569">Active Patients</text>
+  <text x="54" y="168" font-size="29" font-weight="700" fill="#0f172a">9,963</text><rect x="289" y="92" width="235" height="100" rx="14" fill="#f8fafc" stroke="#dbeafe"/>
+  <text x="307" y="125" font-size="14" fill="#475569">Completed</text>
+  <text x="307" y="168" font-size="29" font-weight="700" fill="#0f172a">4,086</text><rect x="542" y="92" width="235" height="100" rx="14" fill="#f8fafc" stroke="#dbeafe"/>
+  <text x="560" y="125" font-size="14" fill="#475569">Discontinued</text>
+  <text x="560" y="168" font-size="29" font-weight="700" fill="#0f172a">3,951</text><rect x="795" y="92" width="235" height="100" rx="14" fill="#f8fafc" stroke="#dbeafe"/>
+  <text x="813" y="125" font-size="14" fill="#475569">Discontinuation Rate</text>
+  <text x="813" y="168" font-size="29" font-weight="700" fill="#0f172a">22.0%</text><rect x="1048" y="92" width="235" height="100" rx="14" fill="#f8fafc" stroke="#dbeafe"/>
+  <text x="1066" y="125" font-size="14" fill="#475569">New Patients Reached</text>
+  <text x="1066" y="168" font-size="29" font-weight="700" fill="#0f172a">97,609</text>
+<text x="50" y="263" font-size="18" font-weight="700">Discontinuation Rate by Product</text><text x="50" y="308.408" font-size="13">RespiraX</text><rect x="145" y="275" width="465" height="46.4" rx="5" fill="#3b82f6"/><text x="615" y="308.408" font-size="12">22.8%</text><text x="50" y="366.808" font-size="13">NeuroZen</text><rect x="145" y="333.4" width="447.8070175438596" height="46.4" rx="5" fill="#3b82f6"/><text x="597.8070175438596" y="366.808" font-size="12">22.1%</text><text x="50" y="425.208" font-size="13">MediCore</text><rect x="145" y="391.8" width="440.43859649122805" height="46.4" rx="5" fill="#3b82f6"/><text x="590.438596491228" y="425.208" font-size="12">21.8%</text><text x="50" y="483.608" font-size="13">CardioPlus</text><rect x="145" y="450.2" width="433.0701754385965" height="46.4" rx="5" fill="#3b82f6"/><text x="583.0701754385965" y="483.608" font-size="12">21.5%</text><text x="50" y="542.008" font-size="13">GlucoCare</text><rect x="145" y="508.6" width="433.0701754385965" height="46.4" rx="5" fill="#3b82f6"/><text x="583.0701754385965" y="542.008" font-size="12">21.5%</text>
+<text x="730" y="263" font-size="18" font-weight="700">Average Adherence by Condition</text><text x="730" y="308.408" font-size="13">Type 2 Diabetes</text><rect x="825" y="275" width="465" height="46.4" rx="5" fill="#3b82f6"/><text x="1295" y="308.408" font-size="12">75.1%</text><text x="730" y="366.808" font-size="13">Migraine</text><rect x="825" y="333.4" width="459.78029294274313" height="46.4" rx="5" fill="#3b82f6"/><text x="1289.780292942743" y="366.808" font-size="12">74.4%</text><text x="730" y="425.208" font-size="13">Hypertension</text><rect x="825" y="391.8" width="459.78029294274313" height="46.4" rx="5" fill="#3b82f6"/><text x="1289.780292942743" y="425.208" font-size="12">74.4%</text><text x="730" y="483.608" font-size="13">Asthma</text><rect x="825" y="450.2" width="457.54327563249" height="46.4" rx="5" fill="#3b82f6"/><text x="1287.54327563249" y="483.608" font-size="12">74.1%</text><text x="730" y="542.008" font-size="13">General Chronic Care</text><rect x="825" y="508.6" width="457.54327563249" height="46.4" rx="5" fill="#3b82f6"/><text x="1287.54327563249" y="542.008" font-size="12">74.1%</text>
+<rect x="50" y="640" width="1240" height="135" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="75" y="680" font-size="19" font-weight="700">Analytical Question</text>
+<text x="75" y="715" font-size="15">Where is patient acquisition strong but therapy discontinuation remains elevated?</text>
+<text x="75" y="746" font-size="15">That combination can reveal where commercial reach is growing without equally strong continuation.</text>
+<text x="36" y="870" font-size="12" fill="#94a3b8">Synthetic patient-level data only • No real patient or protected health information.</text>
+</svg>
