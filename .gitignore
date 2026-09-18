@@ -1,7 +1,3 @@
-data/raw/*.csv
-!data/raw/products.csv
-!data/raw/doctors.csv
-!data/raw/sales_reps.csv
 __pycache__/
 *.pyc
 .DS_Store
