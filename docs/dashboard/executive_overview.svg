@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="1400" height="900" fill="#ffffff"/><rect width="1400" height="64" fill="#0f172a"/>
+<text x="36" y="41" font-size="26" font-weight="700" fill="#ffffff">Healthcare Commercial &amp; Patient Reach Analytics</text>
+<text x="36" y="86" font-size="16" fill="#64748b">Executive Overview • Synthetic Healthcare Commercial Dataset</text>
+<rect x="36" y="92" width="235" height="100" rx="14" fill="#f8fafc" stroke="#dbeafe"/>
+  <text x="54" y="125" font-size="14" fill="#475569">Total Revenue</text>
+  <text x="54" y="168" font-size="29" font-weight="700" fill="#0f172a">$410.3M</text><rect x="289" y="92" width="235" height="100" rx="14" fill="#f8fafc" stroke="#dbeafe"/>
+  <text x="307" y="125" font-size="14" fill="#475569">Gross Profit</text>
+  <text x="307" y="168" font-size="29" font-weight="700" fill="#0f172a">$152.4M</text><rect x="542" y="92" width="235" height="100" rx="14" fill="#f8fafc" stroke="#dbeafe"/>
+  <text x="560" y="125" font-size="14" fill="#475569">Gross Margin</text>
+  <text x="560" y="168" font-size="29" font-weight="700" fill="#0f172a">37.1%</text><rect x="795" y="92" width="235" height="100" rx="14" fill="#f8fafc" stroke="#dbeafe"/>
+  <text x="813" y="125" font-size="14" fill="#475569">New Patients</text>
+  <text x="813" y="168" font-size="29" font-weight="700" fill="#0f172a">97,609</text><rect x="1048" y="92" width="235" height="100" rx="14" fill="#f8fafc" stroke="#dbeafe"/>
+  <text x="1066" y="125" font-size="14" fill="#475569">Discontinuation</text>
+  <text x="1066" y="168" font-size="29" font-weight="700" fill="#0f172a">22.0%</text>
+<text x="50" y="248" font-size="18" font-weight="700">Revenue by Region</text><text x="50" y="296.288" font-size="13">South</text><rect x="145" y="260" width="465" height="50.4" rx="5" fill="#3b82f6"/><text x="615" y="296.288" font-size="12">95M</text><text x="50" y="358.688" font-size="13">West</text><rect x="145" y="322.4" width="409.5894736842105" height="50.4" rx="5" fill="#3b82f6"/><text x="559.5894736842105" y="358.688" font-size="12">85.6M</text><text x="50" y="421.088" font-size="13">East</text><rect x="145" y="384.8" width="391.9052631578947" height="50.4" rx="5" fill="#3b82f6"/><text x="541.9052631578948" y="421.088" font-size="12">82.6M</text><text x="50" y="483.488" font-size="13">North</text><rect x="145" y="447.2" width="385.42105263157896" height="50.4" rx="5" fill="#3b82f6"/><text x="535.421052631579" y="483.488" font-size="12">81.5M</text><text x="50" y="545.888" font-size="13">Central</text><rect x="145" y="509.6" width="291.69473684210527" height="50.4" rx="5" fill="#3b82f6"/><text x="441.69473684210527" y="545.888" font-size="12">65.6M</text>
+<text x="730" y="248" font-size="18" font-weight="700">Revenue by Product</text><text x="730" y="296.288" font-size="13">NeuroZen</text><rect x="825" y="260" width="465" height="50.4" rx="5" fill="#3b82f6"/><text x="1295" y="296.288" font-size="12">117.9M</text><text x="730" y="358.688" font-size="13">RespiraX</text><rect x="825" y="322.4" width="384.72858354537743" height="50.4" rx="5" fill="#3b82f6"/><text x="1214.7285835453774" y="358.688" font-size="12">101M</text><text x="730" y="421.088" font-size="13">CardioPlus</text><rect x="825" y="384.8" width="300.18235793044954" height="50.4" rx="5" fill="#3b82f6"/><text x="1130.1823579304496" y="421.088" font-size="12">83.2M</text><text x="730" y="483.488" font-size="13">GlucoCare</text><rect x="825" y="447.2" width="181.4376590330789" height="50.4" rx="5" fill="#3b82f6"/><text x="1011.437659033079" y="483.488" font-size="12">58.2M</text><text x="730" y="545.888" font-size="13">MediCore</text><rect x="825" y="509.6" width="142.48939779474128" height="50.4" rx="5" fill="#3b82f6"/><text x="972.4893977947413" y="545.888" font-size="12">50M</text>
+<text x="50" y="635" font-size="18" font-weight="700">Patient Therapy Status</text>
+<rect x="50" y="665" width="520" height="40" rx="8" fill="#e2e8f0"/>
+<rect x="50" y="665" width="288" height="40" rx="8" fill="#22c55e"/><rect x="338" y="665" width="118" height="40" fill="#3b82f6"/><rect x="456" y="665" width="114" height="40" rx="8" fill="#f59e0b"/>
+<text x="50" y="735" font-size="14">Active: 9,963</text><text x="230" y="735" font-size="14">Completed: 4,086</text><text x="430" y="735" font-size="14">Discontinued: 3,951</text>
+<rect x="730" y="625" width="560" height="145" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="755" y="660" font-size="18" font-weight="700">Key takeaway</text>
+<text x="755" y="695" font-size="15" fill="#334155">South is the highest-revenue region, while NeuroZen is the top product.</text>
+<text x="755" y="725" font-size="15" fill="#334155">Commercial growth should still be evaluated together with margin, patient reach,</text>
+<text x="755" y="752" font-size="15" fill="#334155">sales-call efficiency, adherence, and discontinuation—not revenue alone.</text>
+<text x="36" y="870" font-size="12" fill="#94a3b8">Portfolio dashboard preview • All data is synthetic and de-identified.</text>
+</svg>
