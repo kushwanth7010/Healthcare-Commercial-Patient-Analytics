@@ -1,351 +1,351 @@
 doctor_id,doctor_name,specialty,region,state,potential_segment,avg_monthly_patient_volume
-D0001,Doctor_0001,General Medicine,South,Telangana,High,406
-D0002,Doctor_0002,Cardiology,North,Punjab,Low,194
-D0003,Doctor_0003,Pulmonology,Central,Chhattisgarh,Low,151
-D0004,Doctor_0004,Neurology,North,Delhi,Low,183
-D0005,Doctor_0005,General Medicine,East,West Bengal,High,469
-D0006,Doctor_0006,Neurology,Central,Madhya Pradesh,Medium,212
-D0007,Doctor_0007,Neurology,North,Haryana,Low,160
-D0008,Doctor_0008,Pulmonology,South,Tamil Nadu,Medium,284
-D0009,Doctor_0009,Cardiology,Central,Chhattisgarh,High,414
-D0010,Doctor_0010,General Medicine,North,Uttar Pradesh,Low,128
-D0011,Doctor_0011,Cardiology,South,Karnataka,High,402
-D0012,Doctor_0012,Cardiology,Central,Jharkhand,Low,149
-D0013,Doctor_0013,Cardiology,South,Karnataka,Low,96
-D0014,Doctor_0014,General Medicine,Central,Jharkhand,Medium,239
-D0015,Doctor_0015,Cardiology,North,Haryana,High,431
-D0016,Doctor_0016,Diabetology,West,Gujarat,High,441
-D0017,Doctor_0017,Pulmonology,Central,Jharkhand,Low,129
-D0018,Doctor_0018,General Medicine,North,Delhi,Medium,314
-D0019,Doctor_0019,General Medicine,East,Bihar,High,373
-D0020,Doctor_0020,Pulmonology,Central,Jharkhand,High,408
-D0021,Doctor_0021,Neurology,South,Karnataka,Low,107
-D0022,Doctor_0022,Diabetology,South,Tamil Nadu,Medium,206
-D0023,Doctor_0023,General Medicine,West,Gujarat,High,430
-D0024,Doctor_0024,Pulmonology,West,Rajasthan,High,407
-D0025,Doctor_0025,Diabetology,East,Assam,Low,189
-D0026,Doctor_0026,Cardiology,East,Assam,High,425
-D0027,Doctor_0027,Neurology,East,Assam,Medium,295
-D0028,Doctor_0028,Pulmonology,South,Tamil Nadu,High,402
-D0029,Doctor_0029,Neurology,East,Assam,High,428
-D0030,Doctor_0030,Pulmonology,South,Tamil Nadu,Medium,233
-D0031,Doctor_0031,Cardiology,West,Rajasthan,Low,165
-D0032,Doctor_0032,General Medicine,Central,Jharkhand,Low,193
-D0033,Doctor_0033,Cardiology,West,Goa,Medium,273
-D0034,Doctor_0034,Cardiology,South,Tamil Nadu,Low,134
-D0035,Doctor_0035,General Medicine,South,Tamil Nadu,High,410
-D0036,Doctor_0036,Cardiology,East,West Bengal,High,393
-D0037,Doctor_0037,General Medicine,South,Tamil Nadu,Low,159
-D0038,Doctor_0038,Pulmonology,East,Odisha,High,466
-D0039,Doctor_0039,Pulmonology,Central,Chhattisgarh,Medium,270
-D0040,Doctor_0040,Diabetology,South,Telangana,High,403
-D0041,Doctor_0041,Pulmonology,East,Assam,Low,117
-D0042,Doctor_0042,Diabetology,West,Gujarat,Medium,263
-D0043,Doctor_0043,Diabetology,West,Rajasthan,Low,191
-D0044,Doctor_0044,Cardiology,West,Goa,Medium,262
-D0045,Doctor_0045,General Medicine,West,Maharashtra,High,456
-D0046,Doctor_0046,Neurology,South,Karnataka,Medium,272
-D0047,Doctor_0047,General Medicine,North,Punjab,Low,101
-D0048,Doctor_0048,Neurology,North,Uttar Pradesh,Low,98
-D0049,Doctor_0049,Neurology,South,Kerala,Low,179
-D0050,Doctor_0050,Neurology,North,Haryana,Medium,268
-D0051,Doctor_0051,Pulmonology,Central,Jharkhand,Medium,291
-D0052,Doctor_0052,General Medicine,South,Karnataka,High,382
-D0053,Doctor_0053,Pulmonology,East,West Bengal,Medium,230
-D0054,Doctor_0054,Neurology,South,Telangana,Low,129
-D0055,Doctor_0055,Cardiology,East,West Bengal,Low,113
-D0056,Doctor_0056,Diabetology,East,Bihar,Medium,238
-D0057,Doctor_0057,Pulmonology,South,Kerala,High,460
-D0058,Doctor_0058,Diabetology,North,Punjab,Low,173
-D0059,Doctor_0059,Pulmonology,East,West Bengal,Medium,303
-D0060,Doctor_0060,Cardiology,North,Haryana,Medium,235
-D0061,Doctor_0061,Pulmonology,South,Kerala,High,455
-D0062,Doctor_0062,Pulmonology,North,Delhi,High,408
-D0063,Doctor_0063,General Medicine,Central,Jharkhand,Medium,284
-D0064,Doctor_0064,General Medicine,North,Delhi,Medium,314
-D0065,Doctor_0065,Neurology,South,Karnataka,Medium,235
-D0066,Doctor_0066,Pulmonology,Central,Jharkhand,Medium,315
-D0067,Doctor_0067,Pulmonology,South,Telangana,Medium,215
-D0068,Doctor_0068,Neurology,North,Haryana,Medium,290
-D0069,Doctor_0069,Cardiology,East,Assam,High,406
-D0070,Doctor_0070,Diabetology,East,Odisha,High,369
-D0071,Doctor_0071,General Medicine,West,Gujarat,Medium,296
-D0072,Doctor_0072,Neurology,South,Tamil Nadu,High,431
-D0073,Doctor_0073,Diabetology,North,Haryana,Medium,234
-D0074,Doctor_0074,Pulmonology,Central,Chhattisgarh,Low,147
-D0075,Doctor_0075,Diabetology,Central,Madhya Pradesh,Low,150
-D0076,Doctor_0076,Diabetology,South,Tamil Nadu,Low,123
-D0077,Doctor_0077,Pulmonology,North,Haryana,Low,146
-D0078,Doctor_0078,Neurology,West,Maharashtra,Medium,244
-D0079,Doctor_0079,Pulmonology,Central,Jharkhand,Medium,272
-D0080,Doctor_0080,Cardiology,North,Delhi,Medium,227
-D0081,Doctor_0081,Pulmonology,West,Gujarat,Medium,218
-D0082,Doctor_0082,Pulmonology,North,Haryana,Low,122
-D0083,Doctor_0083,Diabetology,South,Kerala,Low,108
-D0084,Doctor_0084,Diabetology,Central,Madhya Pradesh,Medium,301
-D0085,Doctor_0085,Pulmonology,West,Gujarat,Medium,213
-D0086,Doctor_0086,General Medicine,North,Uttar Pradesh,Medium,304
-D0087,Doctor_0087,Cardiology,South,Kerala,Medium,259
-D0088,Doctor_0088,Diabetology,North,Uttar Pradesh,Low,122
-D0089,Doctor_0089,Cardiology,East,West Bengal,Low,99
-D0090,Doctor_0090,Pulmonology,Central,Jharkhand,Medium,232
-D0091,Doctor_0091,Pulmonology,North,Punjab,Medium,223
-D0092,Doctor_0092,General Medicine,North,Haryana,Medium,212
-D0093,Doctor_0093,Neurology,Central,Madhya Pradesh,Medium,302
-D0094,Doctor_0094,General Medicine,West,Gujarat,High,426
-D0095,Doctor_0095,General Medicine,West,Rajasthan,High,432
-D0096,Doctor_0096,Neurology,East,Assam,Medium,214
-D0097,Doctor_0097,Neurology,East,Assam,Medium,271
-D0098,Doctor_0098,Neurology,South,Kerala,Low,168
-D0099,Doctor_0099,Pulmonology,South,Karnataka,Medium,244
-D0100,Doctor_0100,General Medicine,North,Uttar Pradesh,Medium,249
-D0101,Doctor_0101,Neurology,South,Tamil Nadu,Medium,261
-D0102,Doctor_0102,Diabetology,South,Tamil Nadu,Medium,221
-D0103,Doctor_0103,Neurology,South,Tamil Nadu,High,441
-D0104,Doctor_0104,General Medicine,Central,Chhattisgarh,Medium,249
-D0105,Doctor_0105,Diabetology,West,Rajasthan,Medium,305
-D0106,Doctor_0106,Cardiology,North,Haryana,Medium,219
-D0107,Doctor_0107,Diabetology,West,Goa,Low,111
-D0108,Doctor_0108,Cardiology,Central,Madhya Pradesh,Medium,256
-D0109,Doctor_0109,Neurology,East,West Bengal,High,401
-D0110,Doctor_0110,Neurology,West,Goa,Medium,301
-D0111,Doctor_0111,Neurology,East,Bihar,Low,131
-D0112,Doctor_0112,General Medicine,East,West Bengal,High,457
-D0113,Doctor_0113,Pulmonology,North,Uttar Pradesh,High,436
-D0114,Doctor_0114,Neurology,Central,Chhattisgarh,Medium,263
-D0115,Doctor_0115,Neurology,East,West Bengal,Low,121
-D0116,Doctor_0116,Pulmonology,Central,Jharkhand,Medium,259
-D0117,Doctor_0117,Diabetology,South,Kerala,High,474
-D0118,Doctor_0118,Pulmonology,North,Punjab,Medium,264
-D0119,Doctor_0119,Diabetology,Central,Madhya Pradesh,High,415
-D0120,Doctor_0120,Pulmonology,East,Bihar,Medium,263
-D0121,Doctor_0121,Pulmonology,East,Odisha,Medium,286
-D0122,Doctor_0122,General Medicine,East,Odisha,Medium,303
-D0123,Doctor_0123,General Medicine,Central,Chhattisgarh,High,384
-D0124,Doctor_0124,Diabetology,West,Gujarat,High,400
-D0125,Doctor_0125,Diabetology,North,Punjab,High,462
-D0126,Doctor_0126,Pulmonology,East,Odisha,Low,151
-D0127,Doctor_0127,Neurology,Central,Chhattisgarh,Medium,312
-D0128,Doctor_0128,General Medicine,West,Gujarat,Medium,262
-D0129,Doctor_0129,Cardiology,South,Tamil Nadu,Medium,287
-D0130,Doctor_0130,Neurology,South,Karnataka,High,434
-D0131,Doctor_0131,Diabetology,West,Gujarat,Medium,305
-D0132,Doctor_0132,Pulmonology,West,Goa,Medium,268
-D0133,Doctor_0133,Pulmonology,North,Punjab,Low,158
-D0134,Doctor_0134,Cardiology,East,Assam,Low,89
-D0135,Doctor_0135,General Medicine,Central,Madhya Pradesh,Medium,284
-D0136,Doctor_0136,Cardiology,South,Telangana,High,406
-D0137,Doctor_0137,Neurology,Central,Chhattisgarh,Medium,223
-D0138,Doctor_0138,Neurology,West,Maharashtra,Medium,223
-D0139,Doctor_0139,Pulmonology,Central,Jharkhand,Medium,254
-D0140,Doctor_0140,Neurology,South,Karnataka,Medium,229
-D0141,Doctor_0141,Pulmonology,Central,Madhya Pradesh,High,457
-D0142,Doctor_0142,Cardiology,South,Tamil Nadu,Medium,207
-D0143,Doctor_0143,Pulmonology,West,Rajasthan,Medium,287
-D0144,Doctor_0144,Diabetology,North,Haryana,Medium,221
-D0145,Doctor_0145,Cardiology,North,Uttar Pradesh,High,449
-D0146,Doctor_0146,Pulmonology,Central,Jharkhand,Medium,233
-D0147,Doctor_0147,Neurology,West,Maharashtra,Medium,217
-D0148,Doctor_0148,Neurology,South,Kerala,Medium,249
-D0149,Doctor_0149,Neurology,North,Uttar Pradesh,Low,129
-D0150,Doctor_0150,Diabetology,West,Gujarat,Medium,247
-D0151,Doctor_0151,Cardiology,North,Haryana,Medium,271
-D0152,Doctor_0152,General Medicine,West,Gujarat,High,429
-D0153,Doctor_0153,Cardiology,Central,Jharkhand,Low,91
-D0154,Doctor_0154,Neurology,West,Gujarat,Medium,217
-D0155,Doctor_0155,General Medicine,Central,Madhya Pradesh,High,469
-D0156,Doctor_0156,Diabetology,North,Delhi,Medium,273
-D0157,Doctor_0157,Diabetology,North,Uttar Pradesh,Low,148
-D0158,Doctor_0158,Cardiology,North,Punjab,High,468
-D0159,Doctor_0159,General Medicine,North,Uttar Pradesh,Medium,216
-D0160,Doctor_0160,Diabetology,Central,Jharkhand,High,447
-D0161,Doctor_0161,Cardiology,West,Goa,High,447
-D0162,Doctor_0162,Diabetology,South,Tamil Nadu,High,409
-D0163,Doctor_0163,General Medicine,South,Kerala,High,421
-D0164,Doctor_0164,General Medicine,West,Maharashtra,Low,102
-D0165,Doctor_0165,Neurology,Central,Jharkhand,Low,147
-D0166,Doctor_0166,General Medicine,East,Odisha,Medium,271
-D0167,Doctor_0167,Diabetology,North,Punjab,Medium,286
-D0168,Doctor_0168,Cardiology,Central,Chhattisgarh,High,458
-D0169,Doctor_0169,General Medicine,West,Maharashtra,Low,123
-D0170,Doctor_0170,Pulmonology,East,Bihar,Medium,311
-D0171,Doctor_0171,Cardiology,South,Telangana,Medium,235
-D0172,Doctor_0172,Neurology,East,Odisha,Low,185
-D0173,Doctor_0173,Neurology,North,Haryana,Medium,249
-D0174,Doctor_0174,Neurology,East,Bihar,Low,114
-D0175,Doctor_0175,Cardiology,West,Maharashtra,Low,145
-D0176,Doctor_0176,General Medicine,West,Gujarat,Medium,252
-D0177,Doctor_0177,Cardiology,West,Gujarat,Low,165
-D0178,Doctor_0178,Neurology,North,Uttar Pradesh,Low,132
-D0179,Doctor_0179,Cardiology,South,Tamil Nadu,Medium,266
-D0180,Doctor_0180,Diabetology,East,Odisha,Medium,256
-D0181,Doctor_0181,General Medicine,East,Assam,Medium,297
-D0182,Doctor_0182,Pulmonology,North,Delhi,High,432
-D0183,Doctor_0183,Pulmonology,East,Odisha,Medium,272
-D0184,Doctor_0184,Diabetology,North,Delhi,Medium,308
-D0185,Doctor_0185,General Medicine,North,Haryana,High,460
-D0186,Doctor_0186,Neurology,East,Assam,High,431
-D0187,Doctor_0187,Cardiology,East,Assam,High,371
-D0188,Doctor_0188,Diabetology,Central,Madhya Pradesh,Medium,259
-D0189,Doctor_0189,General Medicine,South,Telangana,Medium,242
-D0190,Doctor_0190,Diabetology,West,Gujarat,Low,148
-D0191,Doctor_0191,General Medicine,Central,Chhattisgarh,Medium,215
-D0192,Doctor_0192,Neurology,West,Maharashtra,Low,133
-D0193,Doctor_0193,Diabetology,East,West Bengal,High,424
-D0194,Doctor_0194,Pulmonology,South,Kerala,Medium,275
-D0195,Doctor_0195,Diabetology,Central,Jharkhand,Medium,304
-D0196,Doctor_0196,Diabetology,East,Assam,Medium,258
-D0197,Doctor_0197,Diabetology,West,Goa,Low,92
-D0198,Doctor_0198,Cardiology,West,Maharashtra,Medium,290
-D0199,Doctor_0199,General Medicine,Central,Madhya Pradesh,Low,176
-D0200,Doctor_0200,Neurology,North,Haryana,Medium,296
-D0201,Doctor_0201,Diabetology,Central,Chhattisgarh,Medium,223
-D0202,Doctor_0202,Diabetology,South,Telangana,Medium,217
-D0203,Doctor_0203,Diabetology,West,Rajasthan,Medium,236
-D0204,Doctor_0204,Cardiology,East,West Bengal,Medium,293
-D0205,Doctor_0205,Diabetology,Central,Chhattisgarh,High,473
-D0206,Doctor_0206,Cardiology,West,Maharashtra,Medium,277
-D0207,Doctor_0207,General Medicine,Central,Chhattisgarh,Medium,263
-D0208,Doctor_0208,Pulmonology,West,Goa,Medium,228
-D0209,Doctor_0209,Cardiology,North,Delhi,Low,155
-D0210,Doctor_0210,Cardiology,Central,Chhattisgarh,Medium,294
-D0211,Doctor_0211,General Medicine,Central,Madhya Pradesh,Low,160
-D0212,Doctor_0212,Pulmonology,Central,Chhattisgarh,High,472
-D0213,Doctor_0213,General Medicine,West,Maharashtra,Low,85
-D0214,Doctor_0214,Neurology,West,Maharashtra,High,416
-D0215,Doctor_0215,General Medicine,East,Bihar,Medium,256
-D0216,Doctor_0216,Neurology,West,Rajasthan,Medium,283
-D0217,Doctor_0217,General Medicine,South,Kerala,Low,119
-D0218,Doctor_0218,General Medicine,North,Punjab,High,405
-D0219,Doctor_0219,Diabetology,West,Goa,Medium,269
-D0220,Doctor_0220,Neurology,East,Odisha,Low,130
-D0221,Doctor_0221,Diabetology,West,Rajasthan,Medium,230
-D0222,Doctor_0222,Cardiology,West,Goa,Low,94
-D0223,Doctor_0223,Neurology,East,Assam,Medium,291
-D0224,Doctor_0224,Pulmonology,West,Rajasthan,Medium,255
-D0225,Doctor_0225,Pulmonology,Central,Chhattisgarh,High,467
-D0226,Doctor_0226,Pulmonology,Central,Jharkhand,High,449
-D0227,Doctor_0227,Pulmonology,South,Telangana,Low,179
-D0228,Doctor_0228,General Medicine,South,Telangana,High,402
-D0229,Doctor_0229,Cardiology,South,Tamil Nadu,Medium,226
-D0230,Doctor_0230,Cardiology,Central,Jharkhand,High,431
-D0231,Doctor_0231,Neurology,East,Bihar,Medium,243
-D0232,Doctor_0232,General Medicine,Central,Chhattisgarh,Medium,211
-D0233,Doctor_0233,Diabetology,North,Haryana,Low,165
-D0234,Doctor_0234,Cardiology,East,Bihar,Medium,266
-D0235,Doctor_0235,Pulmonology,West,Maharashtra,Medium,267
-D0236,Doctor_0236,Cardiology,East,Odisha,Low,95
-D0237,Doctor_0237,General Medicine,North,Uttar Pradesh,Medium,225
-D0238,Doctor_0238,Diabetology,Central,Chhattisgarh,High,451
-D0239,Doctor_0239,Diabetology,West,Rajasthan,Medium,224
-D0240,Doctor_0240,Neurology,North,Punjab,Medium,228
-D0241,Doctor_0241,Neurology,West,Gujarat,High,423
-D0242,Doctor_0242,Cardiology,West,Maharashtra,Medium,311
-D0243,Doctor_0243,General Medicine,East,Odisha,Low,140
-D0244,Doctor_0244,Diabetology,West,Goa,High,442
-D0245,Doctor_0245,Pulmonology,West,Rajasthan,High,444
-D0246,Doctor_0246,Neurology,East,Assam,Medium,234
-D0247,Doctor_0247,Cardiology,East,Odisha,High,407
-D0248,Doctor_0248,Diabetology,North,Haryana,High,445
-D0249,Doctor_0249,Neurology,South,Tamil Nadu,Medium,310
-D0250,Doctor_0250,Cardiology,South,Tamil Nadu,High,450
-D0251,Doctor_0251,Pulmonology,East,Bihar,Medium,218
-D0252,Doctor_0252,Pulmonology,North,Delhi,High,456
-D0253,Doctor_0253,General Medicine,Central,Chhattisgarh,High,465
-D0254,Doctor_0254,Pulmonology,West,Rajasthan,Low,152
-D0255,Doctor_0255,Cardiology,East,Bihar,Low,170
-D0256,Doctor_0256,Pulmonology,North,Uttar Pradesh,Low,181
-D0257,Doctor_0257,Diabetology,East,Odisha,High,435
-D0258,Doctor_0258,General Medicine,South,Karnataka,Low,88
-D0259,Doctor_0259,Neurology,West,Rajasthan,Medium,221
-D0260,Doctor_0260,General Medicine,Central,Madhya Pradesh,High,470
-D0261,Doctor_0261,General Medicine,East,West Bengal,Medium,214
-D0262,Doctor_0262,Neurology,Central,Chhattisgarh,Low,106
-D0263,Doctor_0263,Cardiology,Central,Jharkhand,Medium,303
-D0264,Doctor_0264,General Medicine,West,Rajasthan,Low,192
-D0265,Doctor_0265,Diabetology,North,Delhi,Medium,263
-D0266,Doctor_0266,Cardiology,East,Odisha,Low,146
-D0267,Doctor_0267,General Medicine,West,Rajasthan,Medium,285
-D0268,Doctor_0268,Neurology,North,Punjab,Medium,309
-D0269,Doctor_0269,Pulmonology,Central,Jharkhand,Low,114
-D0270,Doctor_0270,Neurology,South,Karnataka,Medium,300
-D0271,Doctor_0271,General Medicine,West,Goa,High,444
-D0272,Doctor_0272,General Medicine,East,Odisha,High,402
-D0273,Doctor_0273,Pulmonology,West,Gujarat,Medium,237
-D0274,Doctor_0274,General Medicine,North,Punjab,Medium,239
-D0275,Doctor_0275,Neurology,East,Bihar,Medium,212
-D0276,Doctor_0276,Cardiology,West,Rajasthan,Medium,299
-D0277,Doctor_0277,General Medicine,East,West Bengal,High,470
-D0278,Doctor_0278,Pulmonology,North,Haryana,Medium,250
-D0279,Doctor_0279,Diabetology,East,Bihar,Medium,301
-D0280,Doctor_0280,Diabetology,North,Punjab,Medium,264
-D0281,Doctor_0281,Cardiology,South,Telangana,Low,165
-D0282,Doctor_0282,General Medicine,East,Odisha,Medium,258
-D0283,Doctor_0283,Neurology,West,Gujarat,High,450
-D0284,Doctor_0284,Cardiology,West,Gujarat,Low,98
-D0285,Doctor_0285,General Medicine,South,Tamil Nadu,Medium,283
-D0286,Doctor_0286,Diabetology,Central,Chhattisgarh,Medium,303
-D0287,Doctor_0287,Pulmonology,South,Tamil Nadu,High,416
-D0288,Doctor_0288,Neurology,East,Assam,Low,191
-D0289,Doctor_0289,Neurology,West,Goa,High,393
-D0290,Doctor_0290,General Medicine,North,Uttar Pradesh,Low,138
-D0291,Doctor_0291,Neurology,South,Karnataka,Medium,270
-D0292,Doctor_0292,Diabetology,South,Telangana,Low,88
-D0293,Doctor_0293,Pulmonology,Central,Madhya Pradesh,Low,88
-D0294,Doctor_0294,General Medicine,West,Rajasthan,Medium,286
-D0295,Doctor_0295,Pulmonology,South,Kerala,Low,125
-D0296,Doctor_0296,Diabetology,South,Telangana,High,442
-D0297,Doctor_0297,Neurology,East,Odisha,High,415
-D0298,Doctor_0298,Neurology,West,Maharashtra,Low,162
-D0299,Doctor_0299,Cardiology,Central,Jharkhand,High,460
-D0300,Doctor_0300,Pulmonology,South,Tamil Nadu,Low,138
-D0301,Doctor_0301,Pulmonology,Central,Chhattisgarh,Medium,217
-D0302,Doctor_0302,Pulmonology,North,Delhi,High,437
-D0303,Doctor_0303,Diabetology,South,Kerala,Medium,224
-D0304,Doctor_0304,Cardiology,North,Uttar Pradesh,High,444
-D0305,Doctor_0305,Pulmonology,East,Odisha,High,446
-D0306,Doctor_0306,Cardiology,South,Tamil Nadu,High,373
-D0307,Doctor_0307,Cardiology,North,Uttar Pradesh,Medium,253
-D0308,Doctor_0308,Diabetology,North,Haryana,Medium,216
-D0309,Doctor_0309,Pulmonology,North,Punjab,High,454
-D0310,Doctor_0310,General Medicine,West,Maharashtra,Low,127
-D0311,Doctor_0311,Cardiology,East,Assam,Medium,282
-D0312,Doctor_0312,Cardiology,South,Telangana,Low,126
-D0313,Doctor_0313,Diabetology,East,Odisha,High,472
-D0314,Doctor_0314,Pulmonology,West,Rajasthan,Medium,260
-D0315,Doctor_0315,Cardiology,West,Goa,Low,103
-D0316,Doctor_0316,Cardiology,West,Goa,Low,155
-D0317,Doctor_0317,Cardiology,North,Haryana,High,428
-D0318,Doctor_0318,Pulmonology,East,Assam,Low,112
-D0319,Doctor_0319,Cardiology,South,Telangana,Low,193
-D0320,Doctor_0320,Pulmonology,West,Goa,Medium,227
-D0321,Doctor_0321,Pulmonology,Central,Madhya Pradesh,Low,115
-D0322,Doctor_0322,Neurology,West,Rajasthan,Medium,209
-D0323,Doctor_0323,Pulmonology,Central,Chhattisgarh,High,475
-D0324,Doctor_0324,Pulmonology,North,Delhi,Medium,281
-D0325,Doctor_0325,Pulmonology,Central,Jharkhand,High,416
-D0326,Doctor_0326,General Medicine,West,Maharashtra,Medium,260
-D0327,Doctor_0327,Cardiology,Central,Jharkhand,Low,183
-D0328,Doctor_0328,Pulmonology,North,Uttar Pradesh,Low,95
-D0329,Doctor_0329,General Medicine,North,Punjab,High,451
-D0330,Doctor_0330,Diabetology,West,Rajasthan,Medium,304
-D0331,Doctor_0331,Diabetology,Central,Madhya Pradesh,Low,155
-D0332,Doctor_0332,Pulmonology,East,Assam,Medium,288
-D0333,Doctor_0333,Cardiology,West,Maharashtra,Medium,232
-D0334,Doctor_0334,Neurology,South,Tamil Nadu,Medium,261
-D0335,Doctor_0335,Diabetology,Central,Madhya Pradesh,Medium,240
-D0336,Doctor_0336,Cardiology,Central,Chhattisgarh,Low,161
-D0337,Doctor_0337,Diabetology,South,Karnataka,Medium,263
-D0338,Doctor_0338,Neurology,North,Haryana,High,400
-D0339,Doctor_0339,Neurology,North,Delhi,High,440
-D0340,Doctor_0340,Pulmonology,North,Uttar Pradesh,Medium,265
-D0341,Doctor_0341,Cardiology,West,Rajasthan,High,426
-D0342,Doctor_0342,Pulmonology,West,Gujarat,Medium,287
-D0343,Doctor_0343,Diabetology,East,West Bengal,High,462
-D0344,Doctor_0344,Pulmonology,North,Haryana,Medium,223
-D0345,Doctor_0345,Pulmonology,West,Maharashtra,Medium,249
-D0346,Doctor_0346,Diabetology,South,Tamil Nadu,Medium,224
-D0347,Doctor_0347,Neurology,Central,Jharkhand,Medium,253
-D0348,Doctor_0348,Pulmonology,South,Kerala,Medium,277
-D0349,Doctor_0349,Pulmonology,Central,Madhya Pradesh,Low,97
-D0350,Doctor_0350,Neurology,East,Assam,Medium,267
+D0001,Doctor_0001,General Medicine,North,Delhi,High,436
+D0002,Doctor_0002,Neurology,South,Telangana,High,362
+D0003,Doctor_0003,Cardiology,West,Maharashtra,High,461
+D0004,Doctor_0004,Neurology,South,Telangana,High,471
+D0005,Doctor_0005,Diabetology,Central,Chhattisgarh,Medium,152
+D0006,Doctor_0006,Diabetology,East,West Bengal,Medium,188
+D0007,Doctor_0007,Diabetology,East,Bihar,High,427
+D0008,Doctor_0008,Cardiology,East,West Bengal,Medium,242
+D0009,Doctor_0009,Neurology,East,Bihar,High,419
+D0010,Doctor_0010,Neurology,North,Uttar Pradesh,High,373
+D0011,Doctor_0011,Neurology,West,Maharashtra,Medium,308
+D0012,Doctor_0012,Neurology,Central,Chhattisgarh,High,462
+D0013,Doctor_0013,Diabetology,North,Delhi,Low,143
+D0014,Doctor_0014,Cardiology,North,Punjab,Medium,321
+D0015,Doctor_0015,Diabetology,West,Rajasthan,Medium,285
+D0016,Doctor_0016,Cardiology,South,Tamil Nadu,Medium,212
+D0017,Doctor_0017,Diabetology,South,Karnataka,Medium,280
+D0018,Doctor_0018,General Medicine,East,Odisha,Low,87
+D0019,Doctor_0019,Cardiology,North,Punjab,Low,188
+D0020,Doctor_0020,Cardiology,West,Rajasthan,High,417
+D0021,Doctor_0021,General Medicine,Central,Jharkhand,High,409
+D0022,Doctor_0022,Pulmonology,West,Goa,High,382
+D0023,Doctor_0023,Neurology,South,Karnataka,Medium,327
+D0024,Doctor_0024,Neurology,Central,Chhattisgarh,Medium,251
+D0025,Doctor_0025,Neurology,South,Karnataka,Medium,236
+D0026,Doctor_0026,Diabetology,North,Delhi,Medium,240
+D0027,Doctor_0027,Pulmonology,West,Maharashtra,Medium,289
+D0028,Doctor_0028,Neurology,West,Rajasthan,Low,160
+D0029,Doctor_0029,Neurology,North,Delhi,Low,162
+D0030,Doctor_0030,General Medicine,East,West Bengal,Medium,283
+D0031,Doctor_0031,General Medicine,West,Maharashtra,Low,257
+D0032,Doctor_0032,General Medicine,South,Telangana,Low,117
+D0033,Doctor_0033,Diabetology,Central,Jharkhand,High,391
+D0034,Doctor_0034,Neurology,South,Telangana,Medium,215
+D0035,Doctor_0035,General Medicine,North,Delhi,Low,173
+D0036,Doctor_0036,Cardiology,East,Odisha,High,482
+D0037,Doctor_0037,Cardiology,Central,Madhya Pradesh,Medium,253
+D0038,Doctor_0038,Diabetology,North,Punjab,Medium,213
+D0039,Doctor_0039,General Medicine,Central,Madhya Pradesh,Medium,214
+D0040,Doctor_0040,Diabetology,Central,Chhattisgarh,Low,175
+D0041,Doctor_0041,Pulmonology,South,Tamil Nadu,Low,180
+D0042,Doctor_0042,Neurology,East,Assam,Medium,289
+D0043,Doctor_0043,Cardiology,South,Karnataka,Medium,223
+D0044,Doctor_0044,Diabetology,Central,Jharkhand,Medium,272
+D0045,Doctor_0045,Cardiology,North,Delhi,High,426
+D0046,Doctor_0046,Cardiology,North,Haryana,Medium,272
+D0047,Doctor_0047,Diabetology,East,Assam,Medium,307
+D0048,Doctor_0048,Pulmonology,Central,Jharkhand,High,432
+D0049,Doctor_0049,Diabetology,West,Goa,High,457
+D0050,Doctor_0050,Pulmonology,West,Rajasthan,Medium,263
+D0051,Doctor_0051,Cardiology,North,Delhi,Medium,275
+D0052,Doctor_0052,Diabetology,East,West Bengal,High,454
+D0053,Doctor_0053,Diabetology,Central,Chhattisgarh,Medium,179
+D0054,Doctor_0054,Diabetology,East,Assam,Low,122
+D0055,Doctor_0055,Neurology,North,Uttar Pradesh,High,394
+D0056,Doctor_0056,Cardiology,Central,Madhya Pradesh,Low,104
+D0057,Doctor_0057,Pulmonology,South,Karnataka,Medium,244
+D0058,Doctor_0058,Cardiology,South,Kerala,High,502
+D0059,Doctor_0059,General Medicine,North,Uttar Pradesh,Low,92
+D0060,Doctor_0060,Pulmonology,West,Rajasthan,Medium,313
+D0061,Doctor_0061,Pulmonology,Central,Jharkhand,High,327
+D0062,Doctor_0062,Cardiology,East,Odisha,Medium,241
+D0063,Doctor_0063,General Medicine,Central,Madhya Pradesh,High,428
+D0064,Doctor_0064,Neurology,Central,Chhattisgarh,Low,172
+D0065,Doctor_0065,Cardiology,Central,Madhya Pradesh,Low,179
+D0066,Doctor_0066,Cardiology,North,Punjab,Medium,303
+D0067,Doctor_0067,Cardiology,South,Kerala,Low,120
+D0068,Doctor_0068,Neurology,Central,Madhya Pradesh,Medium,234
+D0069,Doctor_0069,Pulmonology,Central,Madhya Pradesh,Medium,307
+D0070,Doctor_0070,General Medicine,Central,Jharkhand,Low,129
+D0071,Doctor_0071,Diabetology,South,Tamil Nadu,High,349
+D0072,Doctor_0072,Pulmonology,South,Tamil Nadu,Medium,197
+D0073,Doctor_0073,Pulmonology,North,Delhi,Medium,209
+D0074,Doctor_0074,Cardiology,Central,Madhya Pradesh,Medium,287
+D0075,Doctor_0075,Diabetology,Central,Chhattisgarh,Low,147
+D0076,Doctor_0076,General Medicine,North,Punjab,Medium,297
+D0077,Doctor_0077,Neurology,West,Rajasthan,Low,116
+D0078,Doctor_0078,Neurology,Central,Madhya Pradesh,Medium,268
+D0079,Doctor_0079,General Medicine,North,Punjab,High,454
+D0080,Doctor_0080,General Medicine,North,Punjab,Medium,242
+D0081,Doctor_0081,Diabetology,South,Tamil Nadu,Medium,285
+D0082,Doctor_0082,General Medicine,East,Assam,Low,103
+D0083,Doctor_0083,Pulmonology,North,Delhi,Low,120
+D0084,Doctor_0084,General Medicine,North,Delhi,Low,119
+D0085,Doctor_0085,Pulmonology,East,Odisha,Medium,194
+D0086,Doctor_0086,Cardiology,West,Maharashtra,High,446
+D0087,Doctor_0087,General Medicine,South,Telangana,Medium,234
+D0088,Doctor_0088,Diabetology,South,Kerala,High,420
+D0089,Doctor_0089,General Medicine,East,West Bengal,High,446
+D0090,Doctor_0090,General Medicine,South,Telangana,Low,164
+D0091,Doctor_0091,Diabetology,West,Gujarat,Low,176
+D0092,Doctor_0092,Cardiology,South,Kerala,High,414
+D0093,Doctor_0093,Diabetology,East,Assam,High,396
+D0094,Doctor_0094,Cardiology,North,Uttar Pradesh,Low,135
+D0095,Doctor_0095,Pulmonology,South,Karnataka,Medium,167
+D0096,Doctor_0096,Cardiology,South,Karnataka,Medium,180
+D0097,Doctor_0097,General Medicine,West,Rajasthan,Low,67
+D0098,Doctor_0098,Neurology,East,Bihar,Medium,205
+D0099,Doctor_0099,Cardiology,Central,Chhattisgarh,High,441
+D0100,Doctor_0100,Neurology,East,Odisha,Low,90
+D0101,Doctor_0101,Cardiology,East,West Bengal,Medium,239
+D0102,Doctor_0102,Pulmonology,East,Bihar,Medium,331
+D0103,Doctor_0103,Pulmonology,Central,Madhya Pradesh,Low,120
+D0104,Doctor_0104,Cardiology,South,Tamil Nadu,Medium,300
+D0105,Doctor_0105,General Medicine,North,Punjab,Medium,208
+D0106,Doctor_0106,Cardiology,East,Bihar,Medium,248
+D0107,Doctor_0107,Pulmonology,East,Bihar,Medium,207
+D0108,Doctor_0108,Diabetology,East,Odisha,Medium,241
+D0109,Doctor_0109,Neurology,West,Gujarat,Medium,306
+D0110,Doctor_0110,General Medicine,West,Maharashtra,Medium,164
+D0111,Doctor_0111,Pulmonology,West,Rajasthan,Medium,283
+D0112,Doctor_0112,Diabetology,South,Kerala,Medium,273
+D0113,Doctor_0113,Cardiology,East,Bihar,Low,107
+D0114,Doctor_0114,Diabetology,South,Tamil Nadu,Low,60
+D0115,Doctor_0115,Cardiology,South,Telangana,High,423
+D0116,Doctor_0116,Pulmonology,West,Maharashtra,Medium,230
+D0117,Doctor_0117,Pulmonology,Central,Madhya Pradesh,Medium,272
+D0118,Doctor_0118,Cardiology,South,Karnataka,Low,141
+D0119,Doctor_0119,Diabetology,North,Uttar Pradesh,High,508
+D0120,Doctor_0120,Cardiology,Central,Chhattisgarh,Medium,246
+D0121,Doctor_0121,Diabetology,North,Uttar Pradesh,Low,83
+D0122,Doctor_0122,Neurology,Central,Jharkhand,Medium,269
+D0123,Doctor_0123,Neurology,West,Goa,Medium,272
+D0124,Doctor_0124,Pulmonology,South,Kerala,High,494
+D0125,Doctor_0125,Neurology,South,Tamil Nadu,Medium,305
+D0126,Doctor_0126,Pulmonology,South,Tamil Nadu,High,439
+D0127,Doctor_0127,General Medicine,East,Odisha,Medium,340
+D0128,Doctor_0128,Diabetology,Central,Madhya Pradesh,High,354
+D0129,Doctor_0129,Diabetology,West,Gujarat,High,384
+D0130,Doctor_0130,Neurology,West,Rajasthan,Medium,209
+D0131,Doctor_0131,Pulmonology,North,Punjab,Medium,238
+D0132,Doctor_0132,Cardiology,Central,Jharkhand,Low,64
+D0133,Doctor_0133,Pulmonology,Central,Chhattisgarh,High,454
+D0134,Doctor_0134,Pulmonology,East,Bihar,Low,127
+D0135,Doctor_0135,Pulmonology,West,Gujarat,High,339
+D0136,Doctor_0136,Cardiology,West,Goa,Medium,204
+D0137,Doctor_0137,Pulmonology,West,Gujarat,Low,157
+D0138,Doctor_0138,Cardiology,Central,Jharkhand,Low,186
+D0139,Doctor_0139,Cardiology,Central,Jharkhand,High,529
+D0140,Doctor_0140,Pulmonology,West,Gujarat,High,580
+D0141,Doctor_0141,General Medicine,East,Assam,High,442
+D0142,Doctor_0142,Pulmonology,East,Bihar,High,365
+D0143,Doctor_0143,Cardiology,West,Rajasthan,Medium,142
+D0144,Doctor_0144,General Medicine,Central,Madhya Pradesh,High,434
+D0145,Doctor_0145,Cardiology,North,Delhi,Low,95
+D0146,Doctor_0146,Neurology,South,Telangana,High,397
+D0147,Doctor_0147,Cardiology,South,Kerala,Medium,226
+D0148,Doctor_0148,General Medicine,South,Kerala,Low,132
+D0149,Doctor_0149,Diabetology,South,Telangana,Low,198
+D0150,Doctor_0150,General Medicine,North,Delhi,Medium,268
+D0151,Doctor_0151,Diabetology,West,Goa,High,411
+D0152,Doctor_0152,General Medicine,South,Telangana,Low,83
+D0153,Doctor_0153,Neurology,Central,Madhya Pradesh,Low,47
+D0154,Doctor_0154,General Medicine,East,Assam,High,393
+D0155,Doctor_0155,Pulmonology,East,West Bengal,Low,137
+D0156,Doctor_0156,General Medicine,North,Uttar Pradesh,Medium,357
+D0157,Doctor_0157,Pulmonology,West,Gujarat,High,427
+D0158,Doctor_0158,General Medicine,Central,Jharkhand,Medium,314
+D0159,Doctor_0159,Pulmonology,Central,Chhattisgarh,Medium,232
+D0160,Doctor_0160,General Medicine,Central,Chhattisgarh,Low,74
+D0161,Doctor_0161,Pulmonology,North,Haryana,High,366
+D0162,Doctor_0162,General Medicine,West,Goa,High,380
+D0163,Doctor_0163,Pulmonology,East,Odisha,High,537
+D0164,Doctor_0164,General Medicine,East,Bihar,Low,94
+D0165,Doctor_0165,Neurology,East,West Bengal,Low,186
+D0166,Doctor_0166,Pulmonology,North,Punjab,Medium,210
+D0167,Doctor_0167,Pulmonology,South,Kerala,Medium,311
+D0168,Doctor_0168,General Medicine,North,Delhi,High,441
+D0169,Doctor_0169,Neurology,South,Tamil Nadu,Medium,251
+D0170,Doctor_0170,General Medicine,Central,Jharkhand,Medium,257
+D0171,Doctor_0171,General Medicine,Central,Chhattisgarh,Medium,223
+D0172,Doctor_0172,General Medicine,East,Bihar,High,444
+D0173,Doctor_0173,Cardiology,South,Tamil Nadu,Medium,234
+D0174,Doctor_0174,Diabetology,South,Karnataka,Medium,192
+D0175,Doctor_0175,Cardiology,East,Bihar,Low,69
+D0176,Doctor_0176,General Medicine,East,Odisha,High,429
+D0177,Doctor_0177,General Medicine,North,Punjab,High,506
+D0178,Doctor_0178,Diabetology,North,Haryana,Medium,268
+D0179,Doctor_0179,Cardiology,West,Maharashtra,Medium,253
+D0180,Doctor_0180,Pulmonology,West,Goa,Medium,275
+D0181,Doctor_0181,Pulmonology,North,Haryana,High,491
+D0182,Doctor_0182,Pulmonology,North,Uttar Pradesh,High,432
+D0183,Doctor_0183,Diabetology,North,Punjab,Low,117
+D0184,Doctor_0184,Diabetology,East,West Bengal,High,480
+D0185,Doctor_0185,Neurology,West,Gujarat,Medium,283
+D0186,Doctor_0186,Neurology,West,Rajasthan,Low,224
+D0187,Doctor_0187,Neurology,East,West Bengal,Low,150
+D0188,Doctor_0188,Diabetology,North,Punjab,High,352
+D0189,Doctor_0189,Diabetology,North,Punjab,High,344
+D0190,Doctor_0190,Cardiology,North,Punjab,Medium,350
+D0191,Doctor_0191,General Medicine,Central,Chhattisgarh,High,514
+D0192,Doctor_0192,Pulmonology,East,Bihar,High,410
+D0193,Doctor_0193,Neurology,South,Tamil Nadu,Medium,238
+D0194,Doctor_0194,Cardiology,South,Kerala,Medium,340
+D0195,Doctor_0195,Diabetology,South,Tamil Nadu,High,359
+D0196,Doctor_0196,Neurology,South,Tamil Nadu,Medium,210
+D0197,Doctor_0197,Pulmonology,Central,Chhattisgarh,High,455
+D0198,Doctor_0198,General Medicine,East,Assam,Medium,238
+D0199,Doctor_0199,Cardiology,West,Goa,Medium,259
+D0200,Doctor_0200,Neurology,West,Rajasthan,High,411
+D0201,Doctor_0201,Neurology,North,Punjab,Medium,278
+D0202,Doctor_0202,Neurology,North,Haryana,High,497
+D0203,Doctor_0203,Neurology,South,Kerala,Medium,264
+D0204,Doctor_0204,Neurology,East,Odisha,Medium,295
+D0205,Doctor_0205,Pulmonology,West,Maharashtra,Medium,147
+D0206,Doctor_0206,Cardiology,East,Bihar,Low,137
+D0207,Doctor_0207,Pulmonology,East,Assam,Medium,213
+D0208,Doctor_0208,Pulmonology,West,Maharashtra,High,352
+D0209,Doctor_0209,Cardiology,East,Bihar,Low,91
+D0210,Doctor_0210,Neurology,West,Maharashtra,Medium,241
+D0211,Doctor_0211,Neurology,North,Punjab,Medium,310
+D0212,Doctor_0212,Cardiology,West,Goa,High,347
+D0213,Doctor_0213,General Medicine,Central,Madhya Pradesh,Medium,261
+D0214,Doctor_0214,Cardiology,West,Maharashtra,Low,113
+D0215,Doctor_0215,Diabetology,Central,Madhya Pradesh,Medium,241
+D0216,Doctor_0216,Cardiology,North,Uttar Pradesh,High,475
+D0217,Doctor_0217,Cardiology,North,Uttar Pradesh,Medium,289
+D0218,Doctor_0218,General Medicine,South,Kerala,Medium,333
+D0219,Doctor_0219,Pulmonology,East,Assam,Low,131
+D0220,Doctor_0220,Neurology,South,Kerala,High,381
+D0221,Doctor_0221,Cardiology,South,Karnataka,High,407
+D0222,Doctor_0222,Neurology,West,Rajasthan,High,433
+D0223,Doctor_0223,General Medicine,North,Haryana,Low,149
+D0224,Doctor_0224,Pulmonology,Central,Jharkhand,Low,80
+D0225,Doctor_0225,General Medicine,West,Goa,Medium,264
+D0226,Doctor_0226,Pulmonology,Central,Chhattisgarh,Low,152
+D0227,Doctor_0227,Neurology,South,Karnataka,Medium,398
+D0228,Doctor_0228,General Medicine,West,Maharashtra,Medium,363
+D0229,Doctor_0229,Diabetology,West,Goa,Medium,213
+D0230,Doctor_0230,Neurology,North,Punjab,Low,124
+D0231,Doctor_0231,Pulmonology,East,West Bengal,High,339
+D0232,Doctor_0232,Diabetology,West,Maharashtra,Medium,227
+D0233,Doctor_0233,Pulmonology,South,Telangana,Low,157
+D0234,Doctor_0234,Neurology,East,Bihar,Medium,326
+D0235,Doctor_0235,Neurology,North,Haryana,Medium,219
+D0236,Doctor_0236,Neurology,East,Assam,High,384
+D0237,Doctor_0237,General Medicine,North,Punjab,Low,40
+D0238,Doctor_0238,Cardiology,North,Uttar Pradesh,Low,131
+D0239,Doctor_0239,Diabetology,North,Uttar Pradesh,Medium,201
+D0240,Doctor_0240,General Medicine,North,Delhi,Low,110
+D0241,Doctor_0241,General Medicine,East,Bihar,Medium,211
+D0242,Doctor_0242,Neurology,South,Kerala,Medium,254
+D0243,Doctor_0243,Diabetology,South,Karnataka,High,323
+D0244,Doctor_0244,Pulmonology,West,Gujarat,Low,59
+D0245,Doctor_0245,Pulmonology,South,Karnataka,Medium,377
+D0246,Doctor_0246,Cardiology,West,Rajasthan,Low,69
+D0247,Doctor_0247,Neurology,West,Rajasthan,High,359
+D0248,Doctor_0248,Neurology,West,Rajasthan,Medium,361
+D0249,Doctor_0249,Pulmonology,West,Rajasthan,Low,299
+D0250,Doctor_0250,Pulmonology,South,Kerala,High,355
+D0251,Doctor_0251,Neurology,West,Rajasthan,Medium,239
+D0252,Doctor_0252,Pulmonology,East,West Bengal,High,438
+D0253,Doctor_0253,Cardiology,Central,Jharkhand,Low,235
+D0254,Doctor_0254,Diabetology,West,Rajasthan,Medium,205
+D0255,Doctor_0255,Diabetology,East,Odisha,Medium,246
+D0256,Doctor_0256,Cardiology,South,Telangana,Medium,302
+D0257,Doctor_0257,Neurology,West,Maharashtra,Medium,283
+D0258,Doctor_0258,General Medicine,South,Telangana,Medium,239
+D0259,Doctor_0259,Diabetology,West,Gujarat,High,412
+D0260,Doctor_0260,Neurology,Central,Chhattisgarh,Medium,184
+D0261,Doctor_0261,General Medicine,East,Odisha,Low,126
+D0262,Doctor_0262,General Medicine,West,Rajasthan,Low,125
+D0263,Doctor_0263,Diabetology,West,Maharashtra,Low,152
+D0264,Doctor_0264,Neurology,South,Kerala,Medium,229
+D0265,Doctor_0265,General Medicine,West,Maharashtra,Medium,285
+D0266,Doctor_0266,General Medicine,West,Rajasthan,Medium,315
+D0267,Doctor_0267,Diabetology,East,West Bengal,Medium,268
+D0268,Doctor_0268,General Medicine,Central,Jharkhand,Low,159
+D0269,Doctor_0269,Pulmonology,South,Telangana,Low,142
+D0270,Doctor_0270,Cardiology,East,Assam,High,420
+D0271,Doctor_0271,Pulmonology,North,Haryana,High,380
+D0272,Doctor_0272,Pulmonology,South,Karnataka,Medium,277
+D0273,Doctor_0273,Neurology,Central,Chhattisgarh,Medium,254
+D0274,Doctor_0274,Cardiology,South,Kerala,Low,255
+D0275,Doctor_0275,General Medicine,Central,Chhattisgarh,High,506
+D0276,Doctor_0276,Pulmonology,East,Odisha,Medium,281
+D0277,Doctor_0277,Cardiology,South,Tamil Nadu,Low,98
+D0278,Doctor_0278,Cardiology,East,Bihar,Medium,198
+D0279,Doctor_0279,Pulmonology,South,Telangana,High,485
+D0280,Doctor_0280,Cardiology,South,Telangana,Low,154
+D0281,Doctor_0281,Neurology,South,Karnataka,High,446
+D0282,Doctor_0282,Neurology,Central,Madhya Pradesh,High,324
+D0283,Doctor_0283,Diabetology,South,Tamil Nadu,Low,191
+D0284,Doctor_0284,General Medicine,Central,Madhya Pradesh,Low,164
+D0285,Doctor_0285,Neurology,South,Karnataka,High,358
+D0286,Doctor_0286,Cardiology,South,Telangana,High,394
+D0287,Doctor_0287,Neurology,East,Odisha,Medium,274
+D0288,Doctor_0288,Cardiology,South,Tamil Nadu,High,422
+D0289,Doctor_0289,Cardiology,West,Maharashtra,Medium,243
+D0290,Doctor_0290,Pulmonology,East,West Bengal,Medium,254
+D0291,Doctor_0291,Neurology,Central,Madhya Pradesh,Medium,246
+D0292,Doctor_0292,Pulmonology,North,Delhi,Low,148
+D0293,Doctor_0293,Pulmonology,West,Maharashtra,Medium,340
+D0294,Doctor_0294,Cardiology,West,Maharashtra,Medium,118
+D0295,Doctor_0295,Diabetology,South,Telangana,High,406
+D0296,Doctor_0296,General Medicine,Central,Jharkhand,Medium,269
+D0297,Doctor_0297,General Medicine,Central,Jharkhand,Medium,276
+D0298,Doctor_0298,Cardiology,Central,Chhattisgarh,Low,119
+D0299,Doctor_0299,Pulmonology,North,Punjab,Medium,163
+D0300,Doctor_0300,General Medicine,South,Kerala,Low,158
+D0301,Doctor_0301,Cardiology,West,Goa,Medium,355
+D0302,Doctor_0302,General Medicine,East,Bihar,Low,55
+D0303,Doctor_0303,Cardiology,West,Maharashtra,Low,187
+D0304,Doctor_0304,Cardiology,North,Uttar Pradesh,Medium,241
+D0305,Doctor_0305,Neurology,East,Odisha,High,416
+D0306,Doctor_0306,General Medicine,Central,Jharkhand,Medium,202
+D0307,Doctor_0307,Pulmonology,West,Rajasthan,Low,121
+D0308,Doctor_0308,Neurology,North,Haryana,Medium,331
+D0309,Doctor_0309,Diabetology,North,Punjab,Medium,292
+D0310,Doctor_0310,General Medicine,South,Telangana,Low,235
+D0311,Doctor_0311,General Medicine,East,West Bengal,Medium,324
+D0312,Doctor_0312,Neurology,West,Maharashtra,Low,164
+D0313,Doctor_0313,Diabetology,East,West Bengal,High,515
+D0314,Doctor_0314,General Medicine,East,Bihar,High,444
+D0315,Doctor_0315,Cardiology,South,Kerala,High,465
+D0316,Doctor_0316,Neurology,North,Delhi,High,403
+D0317,Doctor_0317,General Medicine,West,Goa,High,423
+D0318,Doctor_0318,Neurology,East,Bihar,Medium,221
+D0319,Doctor_0319,Diabetology,North,Punjab,Low,194
+D0320,Doctor_0320,General Medicine,North,Delhi,Medium,195
+D0321,Doctor_0321,Neurology,West,Goa,Medium,303
+D0322,Doctor_0322,Neurology,East,Odisha,High,409
+D0323,Doctor_0323,General Medicine,West,Maharashtra,Medium,324
+D0324,Doctor_0324,Neurology,Central,Chhattisgarh,Medium,301
+D0325,Doctor_0325,Pulmonology,North,Punjab,Low,240
+D0326,Doctor_0326,Diabetology,North,Delhi,Medium,300
+D0327,Doctor_0327,General Medicine,South,Karnataka,Medium,173
+D0328,Doctor_0328,Pulmonology,North,Delhi,Medium,256
+D0329,Doctor_0329,Pulmonology,South,Karnataka,Medium,195
+D0330,Doctor_0330,Cardiology,South,Tamil Nadu,Medium,231
+D0331,Doctor_0331,Cardiology,North,Uttar Pradesh,Medium,343
+D0332,Doctor_0332,Neurology,North,Haryana,Medium,295
+D0333,Doctor_0333,General Medicine,West,Goa,High,381
+D0334,Doctor_0334,Diabetology,North,Haryana,Low,84
+D0335,Doctor_0335,General Medicine,Central,Chhattisgarh,High,421
+D0336,Doctor_0336,Pulmonology,North,Punjab,Medium,193
+D0337,Doctor_0337,Pulmonology,Central,Madhya Pradesh,Low,103
+D0338,Doctor_0338,General Medicine,East,Odisha,Low,157
+D0339,Doctor_0339,Neurology,North,Delhi,Medium,323
+D0340,Doctor_0340,Diabetology,East,Bihar,High,453
+D0341,Doctor_0341,Diabetology,South,Tamil Nadu,High,293
+D0342,Doctor_0342,Diabetology,South,Telangana,Low,156
+D0343,Doctor_0343,Neurology,West,Goa,Low,143
+D0344,Doctor_0344,General Medicine,West,Rajasthan,High,442
+D0345,Doctor_0345,Pulmonology,North,Uttar Pradesh,Medium,348
+D0346,Doctor_0346,General Medicine,East,West Bengal,Medium,146
+D0347,Doctor_0347,Pulmonology,East,Assam,High,387
+D0348,Doctor_0348,Cardiology,East,Bihar,Medium,292
+D0349,Doctor_0349,Pulmonology,North,Uttar Pradesh,Medium,173
+D0350,Doctor_0350,Neurology,North,Uttar Pradesh,Medium,341
