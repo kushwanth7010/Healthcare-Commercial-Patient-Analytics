@@ -101,3 +101,24 @@ requirements.txt
 **Healthcare Commercial & Patient Reach Analytics | Python, SQL, Power BI**
 
 > This is a synthetic commercial healthcare analytics case study, not real patient or company data.
+
+
+## Management Consulting Layer
+
+To extend the analytics work beyond dashboarding, this repository now includes a consulting-style decision layer focused on commercial prioritization.
+
+- `consulting_case/commercial_strategy_memo.md` — executive-style recommendation memo
+- `consulting_case/case_interview_defense.md` — structured explanation for consulting interviews
+- `consulting_case/resume_bullets.md` — concise, defensible resume bullets
+
+### Consulting Problem Statement
+How should a healthcare commercial team prioritize products, regions, physician engagement, and patient-continuation initiatives when resources are limited?
+
+### Decision Framework
+1. **Market attractiveness:** patient reach, growth potential, therapy demand
+2. **Commercial performance:** revenue, gross profit, margin
+3. **Channel effectiveness:** physician engagement and sales-force productivity
+4. **Patient continuity:** adherence and discontinuation signals
+5. **Execution:** actions ranked by expected impact and ease of implementation
+
+This remains a **synthetic, de-identified portfolio case**. The recommendations demonstrate structured problem solving and do not represent advice to a real healthcare company.
