@@ -27,6 +27,13 @@ jobs:
       - name: Regenerate synthetic datasets
         run: python python/generate_synthetic_data.py
 
+      - name: Verify reproducible synthetic generation across processes
+        run: |
+          sha256sum data/raw/*.csv > /tmp/healthcare-dataset-hashes-before
+          python python/generate_synthetic_data.py
+          sha256sum data/raw/*.csv > /tmp/healthcare-dataset-hashes-after
+          diff -u /tmp/healthcare-dataset-hashes-before /tmp/healthcare-dataset-hashes-after
+
       - name: Validate data relationships and row counts
         run: |
           python - <<'PY'
