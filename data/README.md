@@ -15,4 +15,4 @@ This creates:
 
 The generated dataset is fully synthetic and contains no real patient data or protected health information.
 
-The project generator creates approximately 9,846 commercial activity records, 350 doctors, 25 sales representatives, and 18,000 synthetic patient records.
+The project generator creates 9,816 commercial activity records, 350 doctors, 25 sales representatives, and 18,000 synthetic patient records.
