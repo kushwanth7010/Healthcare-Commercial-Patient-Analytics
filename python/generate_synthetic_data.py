@@ -64,7 +64,7 @@ for month in months:
         selected_products = [primary]
         if rng.random() < 0.22:
             selected_products.append(random.choice(products.product_name.tolist()))
-        for product_name in set(selected_products):
+        for product_name in dict.fromkeys(selected_products):
             product = products.loc[products.product_name == product_name].iloc[0]
             rep_pool = reps[reps.region == doctor.region]
             rep = rep_pool.sample(1, random_state=int(rng.integers(0, 1_000_000))).iloc[0]
