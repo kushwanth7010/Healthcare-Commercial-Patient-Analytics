@@ -4,7 +4,7 @@
 How should a healthcare commercial team allocate limited commercial resources across products, regions, physicians, and patient-continuation initiatives?
 
 ## Evidence Base
-This case uses the repository's synthetic and de-identified data. The current portfolio analysis reports $410.3M revenue, $152.4M gross profit, 37.1% gross margin, 97,609 new patients reached, and a 22.0% therapy-discontinuation rate.
+This case uses wholly synthetic, fictional commercial and episode data, not de-identified real-world patient records. The fixed-seed reference run reports 410.70 million simulated monetary units in revenue, 152.70 million in gross profit, a 37.18% gross margin, 97,624 aggregated new-patient events in commercial records (not unique patients), and a simulated 21.94% episode-discontinuation rate. None of these figures is evidence of actual business or clinical performance.
 
 ## Structured Diagnosis
 ### 1. Market attractiveness
@@ -20,7 +20,7 @@ Use physician potential and current engagement to identify "high-potential / low
 Track adherence and therapy discontinuation as a separate strategic lens. High acquisition with weak continuation can create a misleading view of performance.
 
 ### 5. Resource allocation
-Rank opportunities using a simple decision score:
+An optional **proposed, not yet implemented** decision score could weight the following illustrative considerations:
 - 30% market attractiveness
 - 30% profitability
 - 20% physician whitespace
