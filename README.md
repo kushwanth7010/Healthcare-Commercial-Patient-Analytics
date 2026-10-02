@@ -3,7 +3,7 @@
 ## Project Summary
 A portfolio-ready Business Analyst project that evaluates pharmaceutical commercial performance and patient reach using SQL, Python, and Power BI.
 
-The dataset in this repository is **fully synthetic and de-identified**. It contains no real patient identities or protected health information.
+The datasets are **entirely synthetic**, not de-identified extracts of actual patient records. They contain no real patient identities or protected health information.
 
 ## Dashboard Preview
 
@@ -16,14 +16,16 @@ The dataset in this repository is **fully synthetic and de-identified**. It cont
 ### Patient Reach, Adherence & Therapy Continuation
 ![Patient Reach](docs/dashboard/patient_reach.svg)
 
-> The images above are portfolio dashboard previews generated from the synthetic project data. The repository also includes a detailed Power BI build guide and DAX measures for recreating the interactive report in Power BI Desktop.
+> The images above are portfolio dashboard previews generated from the synthetic project data. The repository includes a Power BI build guide and sample DAX measures; **no verified runnable `.pbix` file is included**. The SVG previews are illustrative snapshots, not an interactive published Power BI report.
 
 ## Key Portfolio KPIs
-- **Total Revenue:** $410.3M
-- **Gross Profit:** $152.4M
-- **Gross Margin:** 37.1%
-- **New Patients Reached:** 97,609
-- **Therapy Discontinuation Rate:** 22.0%
+
+Fixed-seed results from the latest regenerated synthetic dataset; metrics represent a fictional simulation, not observed business or clinical outcomes.
+- **Total Revenue:** 410.70 million simulated monetary units (no real-world currency assigned)
+- **Gross Profit:** 152.70 million simulated monetary units
+- **Gross Margin:** 37.18%
+- **Summed new-patient events in commercial records:** 97,624 (not a count of distinct patients)
+- **Simulated therapy discontinuation rate:** 21.94%
 
 ## Business Questions
 1. Which regions and products drive revenue and gross profit?
@@ -42,7 +44,7 @@ The dataset in this repository is **fully synthetic and de-identified**. It cont
 - `patient_reach.csv`: synthetic patient journey, therapy status and adherence
 
 Generated rows:
-- Commercial sales: 9,846
+- Commercial sales: 9,816
 - Doctors: 350
 - Sales reps: 25
 - Synthetic patients: 18,000
@@ -50,7 +52,7 @@ Generated rows:
 ## Tools
 - **SQL:** MySQL 8+, joins, CTEs, aggregations, LAG, DENSE_RANK
 - **Python:** Pandas, NumPy, Matplotlib
-- **Power BI:** Power Query, data modeling, DAX, interactive dashboard design
+- **Power BI:** Power Query, data modeling and illustrative DAX/dashboard design guide
 - **Git/GitHub:** version control and portfolio documentation
 
 ## Analysis Highlights
